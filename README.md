@@ -13,6 +13,8 @@ STM32F407VET6 environment graphics — ST7920 128x64 LCD + XY-MD02 temperature &
 | Sensor | XY-MD02 Temperature & Humidity (RS485 Modbus RTU) |
 | RS485 | RS485-to-TTL converter module (auto direction) |
 
+![Hardware](images/st7290_1.jpeg)
+
 ---
 
 ## Pinout
@@ -38,8 +40,6 @@ STM32F407VET6 environment graphics — ST7920 128x64 LCD + XY-MD02 temperature &
 |--------|-----------|------|
 | TX | PA2 | USART2_TX |
 | RX | PA3 | USART2_RX |
-
-![USART1_GPIO](images/usart1.png)
 
 RS485 converter wiring:
 ```
@@ -179,6 +179,8 @@ Core/
 ---
 
 ## Result
+
+![Hardware](images/st7290_2.jpeg)
 
 ---
 
