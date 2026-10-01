@@ -1,5 +1,6 @@
 # STM32F407VETx-st7920-graphics
 
+🇮🇩 Bahasa Indonesia | [🇬🇧 English](README.en.md)
 STM32F407VET6 environment graphics — ST7920 128x64 LCD + XY-MD02 temperature & humidity sensor via RS485 Modbus RTU.
 
 ---
